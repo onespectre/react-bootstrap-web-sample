@@ -1,5 +1,5 @@
-# web-boostrap-react
-Using python and javascript to create templates and frameworks from boostrap using react.
+# react-bootstrap-web-sample
+Using python and javascript to create templates and frameworks from bootstrap using react.
 
 
 # Getting Started with Create React App
